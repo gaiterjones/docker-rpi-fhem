@@ -12,7 +12,6 @@ services:
         ports:
           - "8083:8083"
           - "7072:7072"
-        # Proxied via nginx
         expose:
             - 8083
             - 7072

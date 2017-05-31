@@ -12,3 +12,10 @@ docker-compose build
 
 docker-compose up -d
 
+# Connect
+
+http://my.pi:8083/fhem
+
+# more info
+
+http://blog.gaiterjones.com
